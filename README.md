@@ -14,3 +14,4 @@ You need to install packages for twitter sentiment analysis.
  
  I have used <b> polarity </b> to find the <b> positiveness, negativness and neutral. </b>
  
+You need to setup twitter developer account to get tweet from twitter.
